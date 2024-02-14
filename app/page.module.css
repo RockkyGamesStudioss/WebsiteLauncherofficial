@@ -4,8 +4,7 @@
   NAVBAR
 
  */
-
-
+ @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
 .nav {
     position: fixed;
@@ -19,7 +18,7 @@
     justify-content: space-between;
     align-items: center;
     background: radial-gradient(50% 51200% at 50% 48.89%, #5865F2 0%, #593695 100%);
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Cabin', sans-serif;
     font-size: 0.9em;
     padding: 0 2vw;
 }

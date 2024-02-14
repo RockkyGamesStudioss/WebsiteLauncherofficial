@@ -11,8 +11,9 @@ const beVietnamPro = Be_Vietnam_Pro({
 })
 
 export const metadata: Metadata = {
-  title: 'Tiscord',
-  description: 'A fast, object-oriented Discord API wrapper.',
+  title: 'RockkyGamesStudios',
+  description: 'Download Free launcher',
+  icons: ['icon.ico']
 }
 
 export const viewport = {
